@@ -58,14 +58,6 @@ A full-stack intelligent study assistant that goes beyond basic scheduling. Powe
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnamikaShah95&show_icons=true&theme=dark&hide_border=true" alt="Anamika's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnamikaShah95&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 
 ## 🤝 Let's Connect
