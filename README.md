@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=34&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Anamika+Shah+%F0%9F%91%8B;Building+clean+backend+architectures...;Integrating+AI-driven+applications!" alt="Typing SVG" /></p>
+# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Anamika+Shah+%F0%9F%91%8B;Building+clean+backend+architectures...;Integrating+AI-driven+applications!" alt="Typing SVG" /></p>
 
 <p align="center">
   <i>B.Tech Computer Science and Engineering (Artificial Intelligence) • Arya Group of Colleges, Jaipur</i>
