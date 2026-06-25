@@ -35,16 +35,6 @@ Currently focused on creating real-world AI products that combine robust backend
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnamikaShah95&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnamikaShah95&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🚧 Current Projects
 
 | Project                | Status    | Description                                                       |
@@ -173,21 +163,14 @@ AI-powered study assistant generating personalized study plans using Google Gemi
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Stats
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anamika-shah-b2893b313">
-<img src="https://img.shields.io/badge/LinkedIn-Anamika%20Shah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnamikaShah95&show_icons=true&theme=tokyonight"/>
 
-<a href="mailto:anamikashah9580@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AnamikaShah95">
-<img src="https://img.shields.io/badge/GitHub-AnamikaShah95-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnamikaShah95&layout=compact&theme=tokyonight"/>
 </p>
+
 
 ---
 
