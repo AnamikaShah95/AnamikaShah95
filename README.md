@@ -1,89 +1,208 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=A7F3D0&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Anamika+Shah+%F0%9F%91%8B%F0%9F%90%BE;Building+clean+backends+%F0%9F%92%BB%E2%9C%A8;Integrating+AI+apps!+%F0%9F%91%BE%F0%9F%A4%96" alt="Typing SVG" /></p>
+# <p align="center">Hi 👋, I'm Anamika Shah</p>
 
 <p align="center">
-  <i>B.Tech Computer Science and Engineering (Artificial Intelligence) • Arya Group of Colleges, Jaipur</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=A7F3D0&center=true&vCenter=true&width=850&lines=Backend+Developer+💻;AI+Builder+🤖;LLM+Integrator+⚡;B.Tech+CSE+(AI)+Student+🎓;Building+Real+World+Projects+🚀" alt="Typing SVG" />
+</p>
+
+<h3 align="center">
+Backend Developer • AI Builder • LLM Integrator
+</h3>
+
+<p align="center">
+B.Tech Computer Science & Engineering (Artificial Intelligence)<br>
+Arya Group of Colleges, Jaipur
 </p>
 
 <p align="center">
-  I am an AI engineering student passionate about building real, deployable backend systems and integrating intelligent LLM layers. My work focuses on bridging robust backend frameworks with modern AI capabilities to create seamless, high-impact user experiences.
+<a href="https://github.com/AnamikaShah95">
+<img src="https://img.shields.io/github/followers/AnamikaShah95?label=Followers&style=social">
+</a>
+
+<a href="https://github.com/AnamikaShah95">
+<img src="https://img.shields.io/github/stars/AnamikaShah95?affiliations=OWNER&style=social">
+</a>
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm **Anamika Shah**, a Computer Science Engineering (AI) student passionate about building intelligent applications, scalable backend systems, and AI-powered products.
+
+🔹 Backend Development with Python & Flask
+
+🔹 AI Applications & LLM Integration
+
+🔹 Prompt Engineering & Agent Architectures
+
+🔹 REST API Design
+
+🔹 Problem Solving & System Design
+
+Currently focused on creating real-world AI products that combine robust backend engineering with modern Large Language Models.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnamikaShah95&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnamikaShah95&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚧 Current Projects
+
+| Project                | Status    | Description                                                       |
+| ---------------------- | --------- | ----------------------------------------------------------------- |
+| 🚀 Lumina_OS           | Active    | Intelligent Python-powered automation and workflow environment    |
+| 🚀 Multi_Chat_Agent    | Active    | Multi-agent orchestration framework for parallel LLM interactions |
+| ✅ Edubot Study Planner | Completed | AI-powered study planner using Flask and Gemini API               |
+| ✅ Task Manager App     | Completed | Task management application                                       |
+| ✅ Attendance Tracker   | Completed | Desktop attendance application using Python and Tkinter           |
+| ✅ Python Quiz          | Completed | Interactive technical quiz platform                               |
+| ✅ Calculator           | Completed | Responsive calculator application                                 |
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 Multi_Chat_Agent
+
+Advanced AI agent orchestration framework capable of coordinating multiple LLM conversations simultaneously.
+
+**Tech Used**
+
+`Python` `LLMs` `Prompt Engineering`
+`AI Agents` `REST APIs`
+
+---
+
+### ⚙️ Lumina_OS
+
+Python-powered automation environment designed for modular workflows and intelligent execution.
+
+**Tech Used**
+
+`Python`
+`Automation`
+`OOP`
+`System Design`
+
+---
+
+### 📚 Edubot Study Planner
+
+AI-powered study assistant generating personalized study plans using Google Gemini API.
+
+**Features**
+
+* Flask REST API
+* Gemini API Integration
+* Dynamic Study Planning
+* SQLite Database
+* Responsive Frontend
+
+**Tech Used**
+
+`Python`
+`Flask`
+`Gemini API`
+`SQLite`
+`HTML`
+`CSS`
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask,sqlite" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+### AI & ML
+
+* Prompt Engineering
+* NLP
+* LLM Integration
+* AI Agents
+* Gemini API
+* Multi-Agent Systems
+
+---
+
+## 🌱 Currently Learning
+
+* FastAPI
+* Docker
+* System Design
+* RAG Applications
+* Advanced AI Agent Architectures
+
+---
+
+## 🏆 Certifications
+
+| Organization                 | Certification                                 |
+| ---------------------------- | --------------------------------------------- |
+| IIT Bombay (Spoken Tutorial) | C Programming Certification (100%)            |
+| Udemy                        | Complete Python Bootcamp                      |
+| IIT Kharagpur (NPTEL)        | Programming in Modern C++                     |
+| IIT Roorkee (NPTEL)          | Fundamentals of OOP                           |
+| IBM                          | AI Foundations                                |
+| IBM                          | Web Development Fundamentals                  |
+| Forage                       | Data Visualisation Virtual Experience Program |
+
+---
+
+## 📈 2026 Goals
+
+* Build production-ready AI products
+* Master backend engineering
+* Learn cloud deployment
+* Contribute to open source
+* Build advanced multi-agent systems
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/anamika-shah-b2893b313">
+<img src="https://img.shields.io/badge/LinkedIn-Anamika%20Shah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:anamikashah9580@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AnamikaShah95">
+<img src="https://img.shields.io/badge/GitHub-AnamikaShah95-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AnamikaShah95&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anamika-shah-b2893b313"><img src="https://img.shields.io/badge/LINKEDIN-Anamika%20Shah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/AnamikaShah95"><img src="https://img.shields.io/badge/GITHUB-AnamikaShah95-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
----
-
-## 🚧 What I'm Building
-
-| Project | Status | Description |
-| :--- | :--- | :--- |
-| **Lumina_OS** | ⏳ In Progress | An intelligent, Python-powered custom environment layer or automated system workflow. |
-| **Multi_Chat_Agent** | ⏳ In Progress | An advanced multi-agent orchestrator managing parallel LLM conversations and workflows. |
-| **Edubot Study Planner** | ✅ Built | Full-stack study planner utilizing a Flask REST API integrated with the Google Gemini API. |
-| **Task-Manager-App** | ✅ Built | Core task management system built to refine clean routing, state, and structure. |
-| **attendance-tracker** | ✅ Built | A real-time desktop attendance app built with Python and Tkinter. |
-| **Python-Quiz** | ✅ Built | Technical assessment application featuring interactive Sudden Death quiz mechanics. |
-| **Calculator** | ✅ Built | Clean web-based calculator designed to handle dynamic arithmetic structures. |
-
----
-
-## 🔭 Featured Projects
-
-### 🤖 Multi_Chat_Agent — *New & Active*
-A multi-agent conversation framework designed to orchestrate, sync, and manage concurrent LLM execution paths. This project demonstrates advanced prompt engineering architectures, state tracking, and clean API routing for intelligent multi-agent collaboration.
-`Python` `LLM Orchestration` `AI Agents` `API Design`
-
-### ⚙️ Lumina_OS — *New & Active*
-A lightweight, Python-driven system automation or virtual environment layout designed to streamline core execution processes and modular script execution.
-`Python` `Automation` `System Design` `OOP`
-
-### 📚 Edubot Study Planner — *Live on GitHub*
-A full-stack intelligent study assistant that goes beyond basic scheduling. Powered by a custom **Flask backend**, it integrates directly with the **Google Gemini API** to parse user educational goals and generate context-aware, structured study roadmaps dynamically.
-`Python` `Flask` `Gemini API` `REST API` `CSS` `SQLite`
-
----
-
-## 🛠️ Skills & Tools
-
-### 💻 Languages & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-### 🧠 AI/ML Focus Areas
-`NLP` `Prompt Engineering` `LLM Integration` `Multi-Agent Frameworks` `Object-Oriented Programming (OOP)`
-
----
-
-## 🏆 Achievements & Certifications
-
-| Achievement / Issuing Authority | Detail |
-| :--- | :--- |
-| **IIT Bombay (Spoken Tutorial)** | C Training Certification — Remotely evaluated core programming logic structure (Score: 100.00%). |
-| **Udemy** | Complete 2026 Python Bootcamp: Learn Python from Scratch (17.5-hour engineering specialization). |
-| **IIT Kharagpur (NPTEL)** | Programming in Modern C++ — Advanced core language paradigm specialization. |
-| **IIT Roorkee (NPTEL)** | Fundamentals of OOP — Architectural and Object-Oriented design certification. |
-| **IBM** | AI Foundations & Web Development Fundamentals industry badge tracks. |
-| **Forage** | Data Visualisation Virtual Experience Program — Analytics & insights data modeling. |
-
----
-
-## 🤝 Let's Connect
-
-I'm always excited to collaborate on open-source backends, AI pipelines, and architectural builds!
-
-* 💼 **LinkedIn:** [in/anamika-shah-b2893b313](https://www.linkedin.com/in/anamika-shah-b2893b313)
-* 📧 **Email:** [anamikashash9580@gmail.com](mailto:anamikashash9580@gmail.com)
-
-<br />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnamikaShah95&label=Profile%20views&color=0077b5&style=flat-square" alt="Profile Views" />
+⭐ Thanks for visiting my profile! ⭐
 </p>
