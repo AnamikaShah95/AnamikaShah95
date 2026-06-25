@@ -1,25 +1,19 @@
-# <p align="center">Hi 👋, I'm Anamika Shah</p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=A7F3D0&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Anamika+Shah+%F0%9F%91%8B%F0%9F%90%BE;Building+clean+backends+%F0%9F%92%BB%E2%9C%A8;Integrating+AI+apps!+%F0%9F%91%BE%F0%9F%A4%96" alt="Typing SVG" /></p> <p align="center"> <i>B.Tech Computer Science and Engineering (Artificial Intelligence) • Arya Group of Colleges, Jaipur</i> </p> <p align="center"> I am an AI engineering student passionate about building real, deployable backend systems and integrating intelligent LLM layers. My work focuses on bridging robust backend frameworks with modern AI capabilities to create seamless, high-impact user experiences. </p>
+
+---
+## 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=A7F3D0&center=true&vCenter=true&width=850&lines=Backend+Developer+💻;AI+Builder+🤖;LLM+Integrator+⚡;B.Tech+CSE+(AI)+Student+🎓;Building+Real+World+Projects+🚀" alt="Typing SVG" />
-</p>
+<a href="https://www.linkedin.com/in/anamika-shah-b2893b313">
+<img src="https://img.shields.io/badge/LinkedIn-Anamika%20Shah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<h3 align="center">
-Backend Developer • AI Builder • LLM Integrator
-</h3>
-
-<p align="center">
-B.Tech Computer Science & Engineering (Artificial Intelligence)<br>
-Arya Group of Colleges, Jaipur
-</p>
-
-<p align="center">
-<a href="https://github.com/AnamikaShah95">
-<img src="https://img.shields.io/github/followers/AnamikaShah95?label=Followers&style=social">
+<a href="mailto:anamikashah9580@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/AnamikaShah95">
-<img src="https://img.shields.io/github/stars/AnamikaShah95?affiliations=OWNER&style=social">
+<img src="https://img.shields.io/badge/GitHub-AnamikaShah95-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -34,8 +28,6 @@ I'm **Anamika Shah**, a Computer Science Engineering (AI) student passionate abo
 🔹 AI Applications & LLM Integration
 
 🔹 Prompt Engineering & Agent Architectures
-
-🔹 REST API Design
 
 🔹 Problem Solving & System Design
 
