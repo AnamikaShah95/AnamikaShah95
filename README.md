@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=A7F3D0&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Anamika+Shah+%F0%9F%91%8B%F0%9F%90%BE;Building+clean+backends+%F0%9F%92%BB%E2%9C%A8;Integrating+AI+apps!+%F0%9F%91%BE%F0%9F%A4%96" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=A7F3D0&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Anamika+Shah+%F0%9F%91%8B%F0%9F%90%BE;Building+clean+backends+%F0%9F%92%BB%E2%9C%A8;Integrating+AI+apps!+%F0%9F%91%BE%F0%9F%A4%96" alt="Typing SVG" /></p>
 
 <p align="center">
   <i>B.Tech Computer Science and Engineering (Artificial Intelligence) • Arya Group of Colleges, Jaipur</i>
@@ -19,24 +19,29 @@
 
 | Project | Status | Description |
 | :--- | :--- | :--- |
+| **Lumina_OS** | ⏳ In Progress | An intelligent, Python-powered custom environment layer or automated system workflow. |
+| **Multi_Chat_Agent** | ⏳ In Progress | An advanced multi-agent orchestrator managing parallel LLM conversations and workflows. |
 | **Edubot Study Planner** | ✅ Built | Full-stack study planner utilizing a Flask REST API integrated with the Google Gemini API. |
 | **Task-Manager-App** | ✅ Built | Core task management system built to refine clean routing, state, and structure. |
 | **attendance-tracker** | ✅ Built | A real-time desktop attendance app built with Python and Tkinter. |
 | **Python-Quiz** | ✅ Built | Technical assessment application featuring interactive Sudden Death quiz mechanics. |
 | **Calculator** | ✅ Built | Clean web-based calculator designed to handle dynamic arithmetic structures. |
-| **Vending-Machine** | ✅ Built | Client-side logic simulation of a state-based vending machine interface. |
 
 ---
 
 ## 🔭 Featured Projects
 
-### 🤖 Edubot Study Planner — *Live on GitHub*
+### 🤖 Multi_Chat_Agent — *New & Active*
+A multi-agent conversation framework designed to orchestrate, sync, and manage concurrent LLM execution paths. This project demonstrates advanced prompt engineering architectures, state tracking, and clean API routing for intelligent multi-agent collaboration.
+`Python` `LLM Orchestration` `AI Agents` `API Design`
+
+### ⚙️ Lumina_OS — *New & Active*
+A lightweight, Python-driven system automation or virtual environment layout designed to streamline core execution processes and modular script execution.
+`Python` `Automation` `System Design` `OOP`
+
+### 📚 Edubot Study Planner — *Live on GitHub*
 A full-stack intelligent study assistant that goes beyond basic scheduling. Powered by a custom **Flask backend**, it integrates directly with the **Google Gemini API** to parse user educational goals and generate context-aware, structured study roadmaps dynamically.
 `Python` `Flask` `Gemini API` `REST API` `CSS` `SQLite`
-
-### 🐍 Python Quiz Challenge — *Live on GitHub*
-A high-stakes, technical quiz engine engineered with **Sudden Death rules** (one wrong answer triggers an immediate game over). It showcases weighted scoring modules based on question difficulty across terminal inputs and web layouts.
-`Python 3.x` `JavaScript (ES6)` `HTML5` `CSS3 Variables`
 
 ---
 
@@ -45,6 +50,7 @@ A high-stakes, technical quiz engine engineered with **Sudden Death rules** (one
 ### 💻 Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
@@ -52,7 +58,7 @@ A high-stakes, technical quiz engine engineered with **Sudden Death rules** (one
 </p>
 
 ### 🧠 AI/ML Focus Areas
-`NLP` `Prompt Engineering` `LLM Integration` `Object-Oriented Programming (OOP)`
+`NLP` `Prompt Engineering` `LLM Integration` `Multi-Agent Frameworks` `Object-Oriented Programming (OOP)`
 
 ---
 
@@ -60,6 +66,8 @@ A high-stakes, technical quiz engine engineered with **Sudden Death rules** (one
 
 | Achievement / Issuing Authority | Detail |
 | :--- | :--- |
+| **IIT Bombay (Spoken Tutorial)** | C Training Certification — Remotely evaluated core programming logic structure (Score: 100.00%). |
+| **Udemy** | Complete 2026 Python Bootcamp: Learn Python from Scratch (17.5-hour engineering specialization). |
 | **IIT Kharagpur (NPTEL)** | Programming in Modern C++ — Advanced core language paradigm specialization. |
 | **IIT Roorkee (NPTEL)** | Fundamentals of OOP — Architectural and Object-Oriented design certification. |
 | **IBM** | AI Foundations & Web Development Fundamentals industry badge tracks. |
@@ -79,5 +87,3 @@ I'm always excited to collaborate on open-source backends, AI pipelines, and arc
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnamikaShah95&label=Profile%20views&color=0077b5&style=flat-square" alt="Profile Views" />
 </p>
-
-```
