@@ -5,7 +5,7 @@
 ---
 
 
-
+##
 # 👩‍💻 About Me
 ```text
 I'm **Anamika Shah**, an AI Engineering student passionate about building intelligent software that combines robust backend engineering with modern Artificial Intelligence.
@@ -26,7 +26,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 ---
 
 
-
+##
 # 🤝 Connect With Me
 
 <p align="center">
@@ -48,9 +48,9 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 ---
 
 
-
+##
 # 🛠 Tech Stack
-
+##
 ## 👨‍💻 Programming Languages
 
 <p align="left">
@@ -58,7 +58,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 </p>
 
 
-
+##
 ## ⚙️ Backend Development
 
 <p align="left">
@@ -66,7 +66,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 </p>
 
 
-
+##
 ## 🗄️ Database
 
 <p align="left">
@@ -74,7 +74,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 </p>
 
 
-
+##
 ## 🤖 Artificial Intelligence & Machine Learning
 
 <p align="left">
@@ -96,7 +96,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 </p>
 
 
-
+##
 ## 🧰 Tools & Platforms
 
 <p align="left">
@@ -106,7 +106,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 ---
 
 
-
+##
 # 📌 Pinned Repositories
 
 > These are the projects I'm actively building and maintaining.
@@ -121,7 +121,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 ---
 
 
-
+##
 # 🚀 Projects Portfolio
 ```text
 | Project | Category | Status | Technologies |
@@ -135,7 +135,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 ---
 
 
-
+##
 # 📊 Project Statistics
 
 ```text
@@ -160,9 +160,9 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 ---
 
 
-
+##
 # 🌟 Featured Projects
-
+##
 ## 🌟 Lumina_OS
 
 > **An AI-powered automation environment designed to streamline intelligent workflows through modular architecture and extensible tools.**
@@ -191,7 +191,7 @@ Lumina_OS is my flagship project focused on creating a unified automation ecosys
 `System Design`
 
 
-
+##
 ## 🤖 DSA Mentor Agent
 
 > **An autonomous AI mentor that teaches Data Structures & Algorithms using the Socratic Method instead of directly giving solutions.**
@@ -226,7 +226,7 @@ The DSA Mentor Agent simulates the experience of learning from a real mentor. In
 `AI Agents`
 
 
-
+##
 ## 📚 Studdy-Buddy
 
 > **An AI-powered personalized study assistant designed to help students learn smarter through planning, revision, and AI-generated educational resources.**
@@ -261,7 +261,7 @@ Studdy-Buddy is a complete AI learning platform that generates customized study 
 `CSS`
 
 
-
+##
 ## 😀 Face Recognition using PCA + ANN
 
 > **A Machine Learning project implementing face recognition using Principal Component Analysis (Eigenfaces) and Artificial Neural Networks.**
@@ -326,7 +326,7 @@ This repository documents my daily DSA journey while preparing for software engi
 ---
 
 
-
+##
 # 🏆 Certifications
 ```text
 | 🎓 Organization | 📜 Certification | Status |
@@ -342,7 +342,7 @@ This repository documents my daily DSA journey while preparing for software engi
 ---
 
 
-
+##
 # 🎯 2026 Goals
 ```text
 - 🚀 Build production-ready AI applications
@@ -357,7 +357,7 @@ This repository documents my daily DSA journey while preparing for software engi
 ---
 
 
-
+##
 # 📅 Current Focus
 
 ```text
@@ -380,7 +380,7 @@ This repository documents my daily DSA journey while preparing for software engi
 ---
 
 
-
+##
 # 💡 Developer Philosophy
 
 > *"The best way to learn is by building real-world projects that solve real problems."*
@@ -390,7 +390,7 @@ I believe that practical experience is the strongest teacher. Every project I bu
 ---
 
 
-
+##
 # 🤝 Open To Collaborate
 ```text
 I'm always interested in collaborating on projects involving:
@@ -408,7 +408,7 @@ Feel free to connect if you're working on something exciting!
 ---
 
 
-
+##
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -420,7 +420,7 @@ Feel free to connect if you're working on something exciting!
 ---
 
 
-
+##
 # 📈 Contribution Activity
 
 <p align="center">
@@ -432,7 +432,7 @@ Feel free to connect if you're working on something exciting!
 ---
 
 
-
+##
 # 💻 Coding Activity
 
 <p align="center">
@@ -444,7 +444,7 @@ Feel free to connect if you're working on something exciting!
 ---
 
 
-
+##
 # 📊 Contribution Statistics
 
 <p align="center">
@@ -458,7 +458,7 @@ Feel free to connect if you're working on something exciting!
 ---
 
 
-
+##
 # ⏱️ Productivity
 
 <p align="center">
@@ -472,7 +472,7 @@ Feel free to connect if you're working on something exciting!
 ---
 
 
-
+##
 # 🎯 My Development Philosophy
 
 ```text
@@ -497,7 +497,7 @@ Feel free to connect if you're working on something exciting!
 ---
 
 
-
+##
 # 👀 Profile Visitors
 
 <p align="left">
@@ -508,7 +508,7 @@ Feel free to connect if you're working on something exciting!
 ---
 
 
-
+##
 # 📬 Let's Connect
 
 <p align="center">
