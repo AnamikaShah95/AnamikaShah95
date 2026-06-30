@@ -50,7 +50,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 
 
 # 🛠 Tech Stack
-```text
+
 ## 👨‍💻 Programming Languages
 
 <p align="left">
@@ -102,7 +102,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,powershell" />
 </p>
-```
+
 ---
 
 
@@ -296,9 +296,9 @@ This project demonstrates how dimensionality reduction and neural networks can b
 `Machine Learning`
 
 
-
+##
 ## 💻 NeetCode Submissions
-```text
+
 > **A continuously growing repository containing optimized solutions for LeetCode and NeetCode problems with clean implementations and explanations.**
 
 ### ✨ Overview
@@ -321,7 +321,7 @@ This repository documents my daily DSA journey while preparing for software engi
 `Algorithms`
 
 `Problem Solving`
-```
+
 
 ---
 
