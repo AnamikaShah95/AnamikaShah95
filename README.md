@@ -7,7 +7,7 @@
 
 
 # 👩‍💻 About Me
-
+```text
 I'm **Anamika Shah**, an AI Engineering student passionate about building intelligent software that combines robust backend engineering with modern Artificial Intelligence.
 
 I enjoy designing scalable backend systems, autonomous AI agents, machine learning applications, and real-world AI products that solve meaningful problems.
@@ -22,7 +22,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 - 🌐 REST APIs
 - ☁️ Cloud Technologies
 - 🏗️ System Design
-
+```
 ---
 
 
@@ -50,7 +50,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 
 
 # 🛠 Tech Stack
-
+```text
 ## 👨‍💻 Programming Languages
 
 <p align="left">
@@ -102,7 +102,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,powershell" />
 </p>
-
+```
 ---
 
 
@@ -110,20 +110,20 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 # 📌 Pinned Repositories
 
 > These are the projects I'm actively building and maintaining.
-
+```text
 | ⭐ Repository | Description |
 |---------------|-------------|
 | 🌟 **Lumina_OS** | Intelligent automation platform powered by Python and AI. |
 | 🤖 **DSA Mentor Agent** | AI mentor that teaches DSA using the Socratic learning approach. |
 | 😀 **Face Recognition PCA + ANN** | Machine Learning face recognition system using Eigenfaces and ANN. |
 | 💻 **NeetCode Submissions** | Optimized LeetCode & NeetCode DSA solutions repository. |
-
+```
 ---
 
 
 
 # 🚀 Projects Portfolio
-
+```text
 | Project | Category | Status | Technologies |
 |----------|----------|:------:|-------------|
 | 🌟 **Lumina_OS** | AI Automation | 🟢 Active | Python, Automation, AI |
@@ -131,7 +131,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 | 😀 **Face Recognition (PCA + ANN)** | Machine Learning | 🟢 Active | OpenCV, PCA, ANN |
 | 💻 **NeetCode Submissions** | Competitive Programming | 🟢 Active | Python |
 | 📚 **Studdy-Buddy** | AI Education | ✅ Completed | Flask, Gemini API, SQLite |
-
+```
 ---
 
 
@@ -162,7 +162,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 
 
 # 🌟 Featured Projects
-
+```text
 ## 🌟 Lumina_OS
 
 > **An AI-powered automation environment designed to streamline intelligent workflows through modular architecture and extensible tools.**
@@ -321,13 +321,13 @@ This repository documents my daily DSA journey while preparing for software engi
 `Algorithms`
 
 `Problem Solving`
-
+```
 ---
 
 
 
 # 🏆 Certifications
-
+```text
 | 🎓 Organization | 📜 Certification | Status |
 |----------------|------------------|:------:|
 | IIT Bombay (Spoken Tutorial) | C Programming (100%) | ✅ |
@@ -337,13 +337,13 @@ This repository documents my daily DSA journey while preparing for software engi
 | IBM | Web Development Fundamentals | ✅ |
 | Udemy | Complete Python Bootcamp | ✅ |
 | Forage | Data Visualisation Virtual Experience Program | ✅ |
-
+```
 ---
 
 
 
 # 🎯 2026 Goals
-
+```text
 - 🚀 Build production-ready AI applications
 - 🤖 Master AI Agent Architectures
 - 📚 Solve 500+ LeetCode problems
@@ -352,7 +352,7 @@ This repository documents my daily DSA journey while preparing for software engi
 - 🌍 Contribute to Open Source
 - 💼 Secure an AI/Backend Engineering Internship
 - 📖 Publish technical blogs on AI & Backend Development
-
+```
 ---
 
 
@@ -383,15 +383,15 @@ This repository documents my daily DSA journey while preparing for software engi
 # 💡 Developer Philosophy
 
 > *"The best way to learn is by building real-world projects that solve real problems."*
-
+```text
 I believe that practical experience is the strongest teacher. Every project I build is an opportunity to improve my problem-solving skills, write cleaner code, and explore emerging technologies.
-
+```
 ---
 
 
 
 # 🤝 Open To Collaborate
-
+```text
 I'm always interested in collaborating on projects involving:
 
 - 🤖 Artificial Intelligence
@@ -403,49 +403,49 @@ I'm always interested in collaborating on projects involving:
 - 🚀 AI Agent Systems
 
 Feel free to connect if you're working on something exciting!
-
+```
 ---
 
 
 
 # 🔥 GitHub Streak
-
+```text
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=AnamikaShah95&theme=tokyonight&hide_border=true"/>
 
 </p>
-
+```
 ---
 
 
 
 # 📈 Contribution Activity
-
+```text
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnamikaShah95&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
+```
 ---
 
 
 
 # 💻 Coding Activity
-
+```text
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnamikaShah95&theme=tokyonight"/>
 
 </p>
-
+```
 ---
 
 
 
 # 📊 Contribution Statistics
-
+```text
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnamikaShah95&theme=tokyonight"/>
@@ -453,13 +453,13 @@ Feel free to connect if you're working on something exciting!
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnamikaShah95&theme=tokyonight"/>
 
 </p>
-
+```
 ---
 
 
 
 # ⏱️ Productivity
-
+```text
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnamikaShah95&theme=tokyonight"/>
@@ -467,7 +467,7 @@ Feel free to connect if you're working on something exciting!
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnamikaShah95&theme=tokyonight&utcOffset=5.5"/>
 
 </p>
-
+```
 ---
 
 
@@ -498,19 +498,19 @@ Feel free to connect if you're working on something exciting!
 
 
 # 👀 Profile Visitors
-
-<p align="center">
+```text
+<p align="left">
 
 <img src="https://komarev.com/ghpvc/?username=AnamikaShah95&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
-
+```
 ---
 
 
 
 # 📬 Let's Connect
-
+```text
 <p align="center">
 
 <a href="mailto:anamikashah9580@gmail.com">
@@ -526,5 +526,5 @@ Feel free to connect if you're working on something exciting!
 </a>
 
 </p>
-
+```
 ---
