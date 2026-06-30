@@ -51,7 +51,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript" />
 </p>
 
----
+
 
 ## ⚙️ Backend Development
 
@@ -59,7 +59,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs" />
 </p>
 
----
+
 
 ## 🗄️ Database
 
@@ -67,7 +67,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
 </p>
 
----
+
 
 ## 🤖 Artificial Intelligence & Machine Learning
 
@@ -89,7 +89,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 
 </p>
 
----
+
 
 ## 🧰 Tools & Platforms
 
