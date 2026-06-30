@@ -162,7 +162,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 
 
 # 🌟 Featured Projects
-```text
+
 ## 🌟 Lumina_OS
 
 > **An AI-powered automation environment designed to streamline intelligent workflows through modular architecture and extensible tools.**
@@ -298,7 +298,7 @@ This project demonstrates how dimensionality reduction and neural networks can b
 
 
 ## 💻 NeetCode Submissions
-
+```text
 > **A continuously growing repository containing optimized solutions for LeetCode and NeetCode problems with clean implementations and explanations.**
 
 ### ✨ Overview
@@ -322,6 +322,7 @@ This repository documents my daily DSA journey while preparing for software engi
 
 `Problem Solving`
 ```
+
 ---
 
 
@@ -409,43 +410,43 @@ Feel free to connect if you're working on something exciting!
 
 
 # 🔥 GitHub Streak
-```text
+
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=AnamikaShah95&theme=tokyonight&hide_border=true"/>
 
 </p>
-```
+
 ---
 
 
 
 # 📈 Contribution Activity
-```text
+
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnamikaShah95&theme=tokyo-night&hide_border=true"/>
 
 </p>
-```
+
 ---
 
 
 
 # 💻 Coding Activity
-```text
+
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnamikaShah95&theme=tokyonight"/>
 
 </p>
-```
+
 ---
 
 
 
 # 📊 Contribution Statistics
-```text
+
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnamikaShah95&theme=tokyonight"/>
@@ -453,13 +454,13 @@ Feel free to connect if you're working on something exciting!
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnamikaShah95&theme=tokyonight"/>
 
 </p>
-```
+
 ---
 
 
 
 # ⏱️ Productivity
-```text
+
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnamikaShah95&theme=tokyonight"/>
@@ -467,7 +468,7 @@ Feel free to connect if you're working on something exciting!
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnamikaShah95&theme=tokyonight&utcOffset=5.5"/>
 
 </p>
-```
+
 ---
 
 
@@ -498,19 +499,18 @@ Feel free to connect if you're working on something exciting!
 
 
 # 👀 Profile Visitors
-```text
+
 <p align="left">
 
 <img src="https://komarev.com/ghpvc/?username=AnamikaShah95&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
-```
 ---
 
 
 
 # 📬 Let's Connect
-```text
+
 <p align="center">
 
 <a href="mailto:anamikashah9580@gmail.com">
@@ -526,5 +526,5 @@ Feel free to connect if you're working on something exciting!
 </a>
 
 </p>
-```
+
 ---
