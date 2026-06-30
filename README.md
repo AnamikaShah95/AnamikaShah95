@@ -4,6 +4,8 @@
 
 ---
 
+
+
 # 👩‍💻 About Me
 
 I'm **Anamika Shah**, an AI Engineering student passionate about building intelligent software that combines robust backend engineering with modern Artificial Intelligence.
@@ -22,6 +24,8 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 - 🏗️ System Design
 
 ---
+
+
 
 # 🤝 Connect With Me
 
@@ -42,6 +46,8 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 </p>
 
 ---
+
+
 
 # 🛠 Tech Stack
 
@@ -99,6 +105,8 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 
 ---
 
+
+
 # 📌 Pinned Repositories
 
 > These are the projects I'm actively building and maintaining.
@@ -112,6 +120,8 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 
 ---
 
+
+
 # 🚀 Projects Portfolio
 
 | Project | Category | Status | Technologies |
@@ -123,6 +133,8 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 | 📚 **Studdy-Buddy** | AI Education | ✅ Completed | Flask, Gemini API, SQLite |
 
 ---
+
+
 
 # 📊 Project Statistics
 
@@ -146,7 +158,8 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 📚 Total Technologies Used : 15+
 ```
 ---
----
+
+
 
 # 🌟 Featured Projects
 
@@ -177,7 +190,7 @@ Lumina_OS is my flagship project focused on creating a unified automation ecosys
 `REST APIs`
 `System Design`
 
----
+
 
 ## 🤖 DSA Mentor Agent
 
@@ -212,7 +225,7 @@ The DSA Mentor Agent simulates the experience of learning from a real mentor. In
 
 `AI Agents`
 
----
+
 
 ## 📚 Studdy-Buddy
 
@@ -247,7 +260,7 @@ Studdy-Buddy is a complete AI learning platform that generates customized study 
 
 `CSS`
 
----
+
 
 ## 😀 Face Recognition using PCA + ANN
 
@@ -282,7 +295,7 @@ This project demonstrates how dimensionality reduction and neural networks can b
 
 `Machine Learning`
 
----
+
 
 ## 💻 NeetCode Submissions
 
@@ -311,6 +324,8 @@ This repository documents my daily DSA journey while preparing for software engi
 
 ---
 
+
+
 # 🏆 Certifications
 
 | 🎓 Organization | 📜 Certification | Status |
@@ -325,6 +340,8 @@ This repository documents my daily DSA journey while preparing for software engi
 
 ---
 
+
+
 # 🎯 2026 Goals
 
 - 🚀 Build production-ready AI applications
@@ -337,6 +354,8 @@ This repository documents my daily DSA journey while preparing for software engi
 - 📖 Publish technical blogs on AI & Backend Development
 
 ---
+
+
 
 # 📅 Current Focus
 
@@ -359,6 +378,8 @@ This repository documents my daily DSA journey while preparing for software engi
 
 ---
 
+
+
 # 💡 Developer Philosophy
 
 > *"The best way to learn is by building real-world projects that solve real problems."*
@@ -366,6 +387,8 @@ This repository documents my daily DSA journey while preparing for software engi
 I believe that practical experience is the strongest teacher. Every project I build is an opportunity to improve my problem-solving skills, write cleaner code, and explore emerging technologies.
 
 ---
+
+
 
 # 🤝 Open To Collaborate
 
@@ -382,6 +405,9 @@ I'm always interested in collaborating on projects involving:
 Feel free to connect if you're working on something exciting!
 
 ---
+
+
+
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -391,6 +417,8 @@ Feel free to connect if you're working on something exciting!
 </p>
 
 ---
+
+
 
 # 📈 Contribution Activity
 
@@ -402,6 +430,8 @@ Feel free to connect if you're working on something exciting!
 
 ---
 
+
+
 # 💻 Coding Activity
 
 <p align="center">
@@ -411,6 +441,8 @@ Feel free to connect if you're working on something exciting!
 </p>
 
 ---
+
+
 
 # 📊 Contribution Statistics
 
@@ -424,6 +456,8 @@ Feel free to connect if you're working on something exciting!
 
 ---
 
+
+
 # ⏱️ Productivity
 
 <p align="center">
@@ -435,6 +469,8 @@ Feel free to connect if you're working on something exciting!
 </p>
 
 ---
+
+
 
 # 🎯 My Development Philosophy
 
@@ -459,6 +495,8 @@ Feel free to connect if you're working on something exciting!
 
 ---
 
+
+
 # 👀 Profile Visitors
 
 <p align="center">
@@ -468,6 +506,9 @@ Feel free to connect if you're working on something exciting!
 </p>
 
 ---
+
+
+
 # 📬 Let's Connect
 
 <p align="center">
