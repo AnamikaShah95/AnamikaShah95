@@ -7,7 +7,7 @@
 
 ##
 # 👩‍💻 About Me
-```text
+
 I'm **Anamika Shah**, an AI Engineering student passionate about building intelligent software that combines robust backend engineering with modern Artificial Intelligence.
 
 I enjoy designing scalable backend systems, autonomous AI agents, machine learning applications, and real-world AI products that solve meaningful problems.
@@ -22,7 +22,7 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 - 🌐 REST APIs
 - ☁️ Cloud Technologies
 - 🏗️ System Design
-```
+
 ---
 
 
@@ -113,10 +113,10 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 ```text
 | ⭐ Repository | Description |
 |---------------|-------------|
-| 🌟 **Lumina_OS** | Intelligent automation platform powered by Python and AI. |
-| 🤖 **DSA Mentor Agent** | AI mentor that teaches DSA using the Socratic learning approach. |
-| 😀 **Face Recognition PCA + ANN** | Machine Learning face recognition system using Eigenfaces and ANN. |
-| 💻 **NeetCode Submissions** | Optimized LeetCode & NeetCode DSA solutions repository. |
+| 🌟 Lumina_OS | Intelligent automation platform powered by Python and AI. |
+| 🤖 DSA Mentor Agent | AI mentor that teaches DSA using the Socratic learning approach. |
+| 😀 Face Recognition PCA + ANN | Machine Learning face recognition system using Eigenfaces and ANN. |
+| 💻 NeetCode Submissions| Optimized LeetCode & NeetCode DSA solutions repository. |
 ```
 ---
 
@@ -126,11 +126,10 @@ I enjoy designing scalable backend systems, autonomous AI agents, machine learni
 ```text
 | Project | Category | Status | Technologies |
 |----------|----------|:------:|-------------|
-| 🌟 **Lumina_OS** | AI Automation | 🟢 Active | Python, Automation, AI |
-| 🤖 **DSA Mentor Agent** | AI Agents | 🟢 Active | LangChain, LangGraph, Python |
-| 😀 **Face Recognition (PCA + ANN)** | Machine Learning | 🟢 Active | OpenCV, PCA, ANN |
-| 💻 **NeetCode Submissions** | Competitive Programming | 🟢 Active | Python |
-| 📚 **Studdy-Buddy** | AI Education | ✅ Completed | Flask, Gemini API, SQLite |
+| 🌟 Lumina_OS | AI Automation |  ✅ Completed | Python, Automation, AI |
+| 🤖 DSA Mentor Agent | AI Agents | ✅ Completed | LangChain, LangGraph, Python |
+| 😀 Face Recognition (PCA + ANN) | Machine Learning | ✅ Completed | OpenCV, PCA, ANN |
+| 📚 Studdy-Buddy | AI Education | ✅ Completed | Flask, Gemini API, SQLite |
 ```
 ---
 
