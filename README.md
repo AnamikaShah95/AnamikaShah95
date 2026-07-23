@@ -7,11 +7,11 @@
 
 ##
 # 👩‍💻 About Me
-
+```text
 I'm **Anamika Shah**, an AI Engineering student passionate about building intelligent software that combines robust backend engineering with modern Artificial Intelligence.
 
 I enjoy designing scalable backend systems, autonomous AI agents, machine learning applications, and real-world AI products that solve meaningful problems.
-
+```
 ### 🚀 Interests
 
 - 🤖 Artificial Intelligence
